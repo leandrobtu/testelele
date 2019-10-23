@@ -1,0 +1,5 @@
+1. 把 Installer.exe 拷贝到 FFVCL 控件目录下.
+2. 执行 Installer.exe (需要管理员权限写注册表).
+3. 点击 Install 按钮将 FFVCL 安装到 Delphi IDE.
+
+Cheers
